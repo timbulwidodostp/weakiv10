@@ -1,0 +1,2 @@
+# weakiv10
+Weak-instrument-robust tests and confidence intervals for instrumental-variable (IV) estimation of linear, probit and tobit models Use weakiv10 With STATA 18
