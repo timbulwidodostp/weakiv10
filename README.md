@@ -1,6 +1,8 @@
 # weakiv10
 Weak-instrument-robust tests and confidence intervals for instrumental-variable (IV) estimation of linear, probit and tobit models Use weakiv10 With STATA 18
 
+https://www.youtube.com/watch?v=LcDB-eca0F4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
